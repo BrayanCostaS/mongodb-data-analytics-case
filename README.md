@@ -67,3 +67,4 @@ Operadores Avançados: Uso estratégico de $exists e $size para auditar campos o
 Projeto desenvolvido por Brayan Costa Santos
 Analista de Dados em formação - IFES.
 
+[📄 Clique aqui para visualizar o relatório completo (PDF)](./UsandoCompassDB.pdf)
